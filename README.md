@@ -1,5 +1,5 @@
 # For Your Own Good
- A tweak for jailbroken iOS devices that improves your mental health by crashing twitter.
+ A tweak for jailbroken iOS devices that improves your mental health by crashing twitter. Made specifically for and to piss off @damarairl
 
 # Installation
 
