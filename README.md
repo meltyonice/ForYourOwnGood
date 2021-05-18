@@ -5,9 +5,10 @@
 
 Method 1: via Repo
 
-I'll update this section when my repo is up
+1. Add https://pinksickle.github.io/Pink-s-Repo/ to Cydia or Sileo
+2. Add "For Your Own Good"
 
-Method 2: via Sileo
+Method 2: Manually via Sileo
 
  1. Download the .deb release onto your iDevice
  2. Open it in Sileo
