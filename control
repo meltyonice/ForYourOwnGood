@@ -1,0 +1,9 @@
+Package: com.github.pinksickle.antitwitter
+Name: For Your Own Good
+Author: PinkSickle
+Description: 
+Depends: mobilesubstrate
+Maintainer: @PinkSickle_
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.0
